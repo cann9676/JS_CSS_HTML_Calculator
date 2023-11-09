@@ -2,7 +2,7 @@
 
 ### Creating a TI Datamath 2500 Calculator using Javascript, HTML, and CSS
 
-### The Datamath was presented as one of the most iconic calculators according to [PCMag.com](https://www.pcmag.com/news/nerd-alert-7-iconic-calculators-of-yore)
+#### The Datamath was presented as one of the most iconic calculators according to [PCMag.com](https://www.pcmag.com/news/nerd-alert-7-iconic-calculators-of-yore)
 
 ![TI Datamath 2500](https://i.pcmag.com/imagery/lineupitems/01I0N3rzwbvKdW71gTABEle.fit_lim.size_1600x880.v1569507729.jpg)
 
