@@ -74,7 +74,7 @@ transition: all 200ms ease;
 
 }
 
-button#equal {
-    width: 130px;
-    color: #fda354;
+.button.btn-operator#equals {
+    color: #e2822e;
+    width: auto;
 }
