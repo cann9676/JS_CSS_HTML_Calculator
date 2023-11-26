@@ -45,16 +45,20 @@ a{
 }
 
 #display {
-    margin: 0 10px;
-    height: 150px;
+    margin: 10px;
+    height: 90px;
     width: auto;
-    max-width: 270px;
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
     font-size: 30px;
     margin-bottom: 20px;
     overflow-x: scroll;
+    border: 2px;
+    border-radius: 8px;
+    background-color: #000;
+    color: red;
+
 }
 
 #display::-webkit-scrollbar {
@@ -74,7 +78,24 @@ transition: all 200ms ease;
 
 }
 
-.button.btn-operator#equals {
-    color: #e2822e;
-    width: auto;
+#zero {
+    width: 90px;
+    grid-column: span 2;
 }
+
+#equals {
+    color: #e2822e;
+    width:90px;
+    grid-column: span 2;
+}
+
+#CHAINCONST {
+    word-wrap: break-word;
+    color: #3a4452;
+}
+
+h1 {
+    color: beige;
+    text-align: end;
+}
+
